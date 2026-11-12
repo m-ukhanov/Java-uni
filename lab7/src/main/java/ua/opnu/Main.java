@@ -129,7 +129,7 @@ public class Main {
 
         System.out.println("Task 6:");
 
-        array = new int[]{10, 21, 4, 6, 14, 32, 19, 15};
+        array = new int[]{10, 21, 4, 6, 14, 32, 19, 15, 16, 8};
 
         Function power = o -> {
             int i = (int) o;
